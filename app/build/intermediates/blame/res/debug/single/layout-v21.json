@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "/Users/ccaucott/AndroidStudioProjects/TiltSpot/app/build/intermediates/res/merged/debug/layout-v21/notification_template_icon_group.xml",
+        "source": "/Users/ccaucott/.android/build-cache/245d9cf3810b5b672d1ea53304e71e82db83dc4e/output/res/layout-v21/notification_template_icon_group.xml"
+    },
+    {
+        "merged": "/Users/ccaucott/AndroidStudioProjects/TiltSpot/app/build/intermediates/res/merged/debug/layout-v21/notification_action.xml",
+        "source": "/Users/ccaucott/.android/build-cache/245d9cf3810b5b672d1ea53304e71e82db83dc4e/output/res/layout-v21/notification_action.xml"
+    },
+    {
+        "merged": "/Users/ccaucott/AndroidStudioProjects/TiltSpot/app/build/intermediates/res/merged/debug/layout-v21/notification_template_custom_big.xml",
+        "source": "/Users/ccaucott/.android/build-cache/245d9cf3810b5b672d1ea53304e71e82db83dc4e/output/res/layout-v21/notification_template_custom_big.xml"
+    },
+    {
+        "merged": "/Users/ccaucott/AndroidStudioProjects/TiltSpot/app/build/intermediates/res/merged/debug/layout-v21/notification_action_tombstone.xml",
+        "source": "/Users/ccaucott/.android/build-cache/245d9cf3810b5b672d1ea53304e71e82db83dc4e/output/res/layout-v21/notification_action_tombstone.xml"
+    }
+]

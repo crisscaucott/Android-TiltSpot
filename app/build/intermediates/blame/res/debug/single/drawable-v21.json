@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "/Users/ccaucott/AndroidStudioProjects/TiltSpot/app/build/intermediates/res/merged/debug/drawable-v21/abc_btn_colored_material.xml",
+        "source": "/Users/ccaucott/.android/build-cache/245d9cf3810b5b672d1ea53304e71e82db83dc4e/output/res/drawable-v21/abc_btn_colored_material.xml"
+    },
+    {
+        "merged": "/Users/ccaucott/AndroidStudioProjects/TiltSpot/app/build/intermediates/res/merged/debug/drawable-v21/abc_action_bar_item_background_material.xml",
+        "source": "/Users/ccaucott/.android/build-cache/245d9cf3810b5b672d1ea53304e71e82db83dc4e/output/res/drawable-v21/abc_action_bar_item_background_material.xml"
+    },
+    {
+        "merged": "/Users/ccaucott/AndroidStudioProjects/TiltSpot/app/build/intermediates/res/merged/debug/drawable-v21/abc_edit_text_material.xml",
+        "source": "/Users/ccaucott/.android/build-cache/245d9cf3810b5b672d1ea53304e71e82db83dc4e/output/res/drawable-v21/abc_edit_text_material.xml"
+    },
+    {
+        "merged": "/Users/ccaucott/AndroidStudioProjects/TiltSpot/app/build/intermediates/res/merged/debug/drawable-v21/notification_action_background.xml",
+        "source": "/Users/ccaucott/.android/build-cache/245d9cf3810b5b672d1ea53304e71e82db83dc4e/output/res/drawable-v21/notification_action_background.xml"
+    }
+]

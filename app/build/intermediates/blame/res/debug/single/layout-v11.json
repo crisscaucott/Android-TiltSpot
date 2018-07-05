@@ -1,0 +1,26 @@
+[
+    {
+        "merged": "/Users/ccaucott/AndroidStudioProjects/TiltSpot/app/build/intermediates/res/merged/debug/layout-v11/notification_template_big_media_custom.xml",
+        "source": "/Users/ccaucott/.android/build-cache/245d9cf3810b5b672d1ea53304e71e82db83dc4e/output/res/layout-v11/notification_template_big_media_custom.xml"
+    },
+    {
+        "merged": "/Users/ccaucott/AndroidStudioProjects/TiltSpot/app/build/intermediates/res/merged/debug/layout-v11/notification_media_cancel_action.xml",
+        "source": "/Users/ccaucott/.android/build-cache/245d9cf3810b5b672d1ea53304e71e82db83dc4e/output/res/layout-v11/notification_media_cancel_action.xml"
+    },
+    {
+        "merged": "/Users/ccaucott/AndroidStudioProjects/TiltSpot/app/build/intermediates/res/merged/debug/layout-v11/notification_template_big_media_narrow_custom.xml",
+        "source": "/Users/ccaucott/.android/build-cache/245d9cf3810b5b672d1ea53304e71e82db83dc4e/output/res/layout-v11/notification_template_big_media_narrow_custom.xml"
+    },
+    {
+        "merged": "/Users/ccaucott/AndroidStudioProjects/TiltSpot/app/build/intermediates/res/merged/debug/layout-v11/notification_media_action.xml",
+        "source": "/Users/ccaucott/.android/build-cache/245d9cf3810b5b672d1ea53304e71e82db83dc4e/output/res/layout-v11/notification_media_action.xml"
+    },
+    {
+        "merged": "/Users/ccaucott/AndroidStudioProjects/TiltSpot/app/build/intermediates/res/merged/debug/layout-v11/notification_template_big_media_narrow.xml",
+        "source": "/Users/ccaucott/.android/build-cache/245d9cf3810b5b672d1ea53304e71e82db83dc4e/output/res/layout-v11/notification_template_big_media_narrow.xml"
+    },
+    {
+        "merged": "/Users/ccaucott/AndroidStudioProjects/TiltSpot/app/build/intermediates/res/merged/debug/layout-v11/notification_template_big_media.xml",
+        "source": "/Users/ccaucott/.android/build-cache/245d9cf3810b5b672d1ea53304e71e82db83dc4e/output/res/layout-v11/notification_template_big_media.xml"
+    }
+]
