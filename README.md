@@ -1,7 +1,7 @@
 TiltSpot 
 ========================
 
-It's a modified version of the "TiltSpot" app from the [Advanced Android Development Course](https://legacy.gitbook.com/book/google-developer-training/android-developer-advanced-course-concepts/details) which gives support to devices that not have magnetic field sensor using Gyroscope sensor instead.
+It's a modified version of the "TiltSpot" app from the [Advanced Android Development Course](https://legacy.gitbook.com/book/google-developer-training/android-developer-advanced-course-concepts/details) which gives support to devices that not have magnetic field sensor (like the Moto G 5 in my case) using Gyroscope sensor instead.
 
 ![App example 1](https://rawgit.com/crisscaucott/Android-TiltSpot/master/screenshoots/TiltSpot.gif)
 
